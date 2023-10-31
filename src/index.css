@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+img {
+  width: 290px;
+  height: 190px;
+  object-fit: contain;
+}
